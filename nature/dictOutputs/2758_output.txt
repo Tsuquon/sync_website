@@ -1,0 +1,9 @@
+satellite 3
+provide 2
+researcher 1
+drone 1
+place 1
+perspective 1
+regular 1
+entire 1
+better 1

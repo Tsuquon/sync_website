@@ -1,0 +1,1 @@
+drug, inhibitor, deuterium, deucravacitinib, pseudokinase domain

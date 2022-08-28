@@ -1,0 +1,16 @@
+researcher 4
+sensor 2
+traverse 1
+machine 1
+navigate 1
+gave 1
+take 1
+create 1
+unstable 1
+obstacle 1
+overcome 1
+proprioceptive 1
+move 1
+twice 1
+average 1
+science 1

@@ -1,0 +1,17 @@
+image 5
+produce 2
+space 1
+release 1
+white 1
+ever 1
+light-year 1
+cluster 1
+year 1
+shape 1
+near 1
+hour 1
+harbinger 1
+administrator 1
+we’re 1
+able 1
+answer 1

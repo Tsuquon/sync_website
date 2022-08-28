@@ -1,0 +1,16 @@
+extreme 3
+researcher 2
+tumour 2
+glucose 2
+temperature 2
+canoe 2
+mouse 1
+starve 1
+tissue 1
+evidence 1
+al.evidence 1
+bone 1
+forwardsclimate 1
+become 1
+climate 1
+better 1

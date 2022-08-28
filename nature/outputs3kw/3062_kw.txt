@@ -1,0 +1,1 @@
+rram, vertical rram, peripheral circuits, circuits, rram array

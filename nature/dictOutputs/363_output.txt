@@ -1,0 +1,12 @@
+diverse 2
+science 2
+state 2
+europe 1
+stage 1
+research-intensive 1
+powerhouse 1
+base 1
+more 1
+programme 1
+collaborative 1
+administrative 1

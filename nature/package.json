@@ -1,0 +1,20 @@
+{
+  "name": "nature",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^20.0.0",
+    "mssql": "^9.0.1",
+    "node-fetch": "^2.0.0",
+    "node-fetch-cookies": "^2.0.4",
+    "request": "^2.88.2",
+    "sequelize": "^6.21.4"
+  }
+}

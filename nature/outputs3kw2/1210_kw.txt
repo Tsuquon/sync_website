@@ -1,0 +1,1 @@
+bacteria, host, signals, quorum-sensing signal, google scholar

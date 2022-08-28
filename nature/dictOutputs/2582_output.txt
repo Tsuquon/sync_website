@@ -1,0 +1,10 @@
+waste 2
+enter 1
+wider 1
+unsustainable 1
+engineer 1
+take 1
+negotiator 1
+create 1
+committee 1
+hammer 1

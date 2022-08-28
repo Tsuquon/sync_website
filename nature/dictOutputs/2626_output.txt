@@ -1,0 +1,15 @@
+climate 2
+future 2
+disperse 1
+face 1
+chance 1
+suitable 1
+population—some 1
+large 1
+science 1
+range 1
+specie 1
+distance 1
+increase 1
+resilience 1
+change 1

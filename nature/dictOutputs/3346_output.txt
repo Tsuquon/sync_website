@@ -1,0 +1,15 @@
+vaccine 3
+nature 2
+centre 1
+disease 1
+five 1
+year 1
+despite 1
+whether 1
+vaccinate 1
+episode 1
+regulator 1
+saynever 1
+subscribe 1
+apple 1
+favourite 1

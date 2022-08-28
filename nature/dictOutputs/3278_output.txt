@@ -1,0 +1,17 @@
+rule 3
+year 2
+molecular 2
+decade 2
+excited-state 2
+benzene 2
+considerable 1
+since 1
+describe 1
+three 1
+planar 1
+couple 1
+fulvene 1
+large 1
+state 1
+arose 1
+four 1

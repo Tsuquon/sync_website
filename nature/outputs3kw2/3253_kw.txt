@@ -1,0 +1,1 @@
+constant, newton, gravitational, bar, article google
